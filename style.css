@@ -1,0 +1,64 @@
+.header {
+    background-color: black;
+    align-content: center;
+    color: white;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+}
+
+nav {
+    background: white;
+}
+
+.card {
+    background: black;
+    color: white;
+    border: white;
+    border-width: 10px;
+}
+
+body {
+    background: black;
+}
+
+.title {
+    color: white;
+}
+
+.local {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.content {
+    padding-left: 10px;
+}
+
+footer {
+    text-align: center;
+    color: black;
+    background: white;
+    height: 100px;
+}
+
+.field {
+    width: 250px;
+}
+
+.label {
+    color: white;
+}
+
+.float{
+    float: right;
+} 
+
+p{
+    color: white;
+}
+
+
+
